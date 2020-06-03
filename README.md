@@ -10,4 +10,4 @@ nele tirará uma vida do jogador.
 * Se o tempo for alcançado sem perder todas as
 vidas o jogador vence.
 
-![alt text](https://i.imgur.com/aeWkClo.png)
+![alt text](./preview/preview.gif)
